@@ -25,7 +25,7 @@ Languages
 
 Turkish: Native
 
-English: Advanced (YTÜ Maçka Hazırlık Mezunu)
+English: Advanced (YTÜ Maçka Hazırlık)
 
 
 
