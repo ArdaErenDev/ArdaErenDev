@@ -1,7 +1,7 @@
 👋 Merhaba, Ben Arda Eren Şahin
  YTÜ Maçka MTAL Student
 
-Yazılım geliştirme 11. sınıf öğrencisiyim. Disiplinli takım çalışmasına ve yenilikçi projelere değer veriyorum.
+Yazılım geliştirme 12. sınıf öğrencisiyim. Disiplinli takım çalışmasına ve yenilikçi projelere değer veriyorum.
 
 Tech Stack
 
